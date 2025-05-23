@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "DeepLearning"
+  site-url: "https://fsadock.github.io/DeepLearning"
+  description: "DeepLearning course with nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/fsadock/DeepLearning"
